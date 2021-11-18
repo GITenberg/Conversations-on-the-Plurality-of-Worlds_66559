@@ -1,0 +1,59 @@
+_repo: Conversations-on-the-Plurality-of-Worlds_66559
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Lalande, Joseph Jérôme Le Français de
+    aliases:
+    - De Lalande, Joseph Jérôme Le Français
+    - Lalande, Joseph Jerome Le Francais de
+    - Lande, Jerome de la
+    - Delalande, Jérome
+    birthdate: 1732
+    deathdate: 1807
+    gutenberg_agent_id: '53866'
+    url: http://www.gutenberg.org/2009/agents/53866
+    wikipedia:
+    - https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lalande
+    - https://fr.wikipedia.org/wiki/Joseph_J%C3%A9r%C3%B4me_Lefran%C3%A7ois_de_Lalande
+  translator:
+    agent_name: Gunning, Miss (Elizabeth)
+    aliases:
+    - Plunkett, Elizabeth Gunning
+    - Plunkett, Mrs. (Elizabeth)
+    - Gunning, Elizabeth
+    birthdate: 1769
+    deathdate: 1823
+    gutenberg_agent_id: '53865'
+    url: http://www.gutenberg.org/2009/agents/53865
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Gunning_(translator)
+creator:
+  author:
+    agent_name: Fontenelle, M. de (Bernard Le Bovier)
+    aliases:
+    - Fontanelle, Monsieur (Bernard Le Bovier)
+    - Fontenelle, Bernard Le Bovier de
+    - Fontenelle, Bernard de
+    - De Fontenelle, Bernard Le Bovier
+    - Bovier de Fontenelle, Bernard Le
+    birthdate: 1657
+    deathdate: 1757
+    gutenberg_agent_id: '45530'
+    url: http://www.gutenberg.org/2009/agents/45530
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Bernard_Le_Bouyer_de_Fontenelle
+    - https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle
+description: ''
+gutenberg_issued: '2021-10-18'
+identifiers:
+  gutenberg: '66559'
+  lccn: 07006894
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plurality of worlds'
+- !lcc 'QB'
+- GITenberg
+title: Conversations on the Plurality of Worlds
+url: http://www.gutenberg.org/ebooks/66559

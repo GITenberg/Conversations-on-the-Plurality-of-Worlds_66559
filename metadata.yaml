@@ -26,6 +26,9 @@ contributor:
     gutenberg_agent_id: '53865'
     url: http://www.gutenberg.org/2009/agents/53865
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Gunning_(translator)
+covers:
+- cover_type: archival
+  image_path: 66559-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Fontenelle, M. de (Bernard Le Bovier)
@@ -43,6 +46,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Bernard_Le_Bouyer_de_Fontenelle
     - https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66559#Conversations-on-the-Plurality-of-Worlds
 gutenberg_issued: '2021-10-18'
 identifiers:
   gutenberg: '66559'
